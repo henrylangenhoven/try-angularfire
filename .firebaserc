@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "try-angularfire"
+  },
+  "targets": {
+    "try-angularfire": {
+      "hosting": {
+        "try-angularfire": [
+          "try-angularfire"
+        ]
+      }
+    }
+  }
+}
