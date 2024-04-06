@@ -46,4 +46,4 @@ Thumbs.db
 *.cache
 *-debug.log
 .runtimeconfig.json
-src/environments/*
+src/environments/environment.local.ts
